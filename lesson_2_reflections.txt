@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+one need to run git init or git status
+-------------------------
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the original file is on working directory, then we add the file to the staging area before commit to the repository
