@@ -3,4 +3,8 @@ when i want to work remotely or collaborate with others
 -------------------------------------
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It might create a conflict. The most recent version is not hte most statble version
+------------------------------------
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+the branch is when you want to deviate from the existing code and test something. The clone is when you want to copy a repository to another place and the fork is the clone that you have not permission to modify the original repository
 
